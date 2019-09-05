@@ -58,7 +58,7 @@ googleAnalytics = "UA-146589827-1"
   
   [[params.social]]
     name = "email"
-    url = "jon@beyondperformance.us"
+    url = "mailto:jon@beyondperformance.us"
     
   [[params.social]]
     name = "twitter"
