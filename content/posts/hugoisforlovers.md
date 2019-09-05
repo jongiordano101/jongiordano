@@ -1,15 +1,11 @@
 +++
-title = "Getting Started with Hugo"
-tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
-]
 date = "2014-04-02"
+draft = true
+tags = ["go", "golang", "hugo", "development"]
+title = "Getting Started with Hugo"
 toc = true
-+++
 
++++
 ## Step 1. Install Hugo
 
 Go to [Hugo releases](https://github.com/spf13/hugo/releases) and download the
