@@ -63,9 +63,9 @@ googleAnalytics = "UA-146589827-1"
     name = "linkedin"
     url = "https://www.linkedin.com/in/jongiordano/"
 
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/jongiordano101"
+  # [[params.social]]
+  #  name = "github"
+  #  url = "https://github.com/jongiordano101"
 
 [menu]
 
@@ -78,4 +78,15 @@ googleAnalytics = "UA-146589827-1"
     name = "About"
     url = "about-jon-giordano/"
     weight = 20
+    
+  [[menu.main]]
+    name = "The Pristine Pro*ject"
+    url = "https://thepristineproject.com"
+    weight = 20  
+  
+  [[menu.main]]
+    name = "Beyond Performance"
+    url = "https://beyondperformance.us"
+    weight = 20  
+    
     
