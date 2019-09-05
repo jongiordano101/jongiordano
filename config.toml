@@ -76,6 +76,6 @@ googleAnalytics = "UA-146589827-1"
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about-jon-giordano/"
     weight = 20
     
