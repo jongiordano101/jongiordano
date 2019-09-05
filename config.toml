@@ -80,12 +80,12 @@ googleAnalytics = "UA-146589827-1"
     weight = 20
     
   [[menu.main]]
-    name = "The Pristine Pro*ject"
+    name = "Personal"
     url = "https://thepristineproject.com"
     weight = 20  
   
   [[menu.main]]
-    name = "Beyond Performance"
+    name = "Business"
     url = "https://beyondperformance.us"
     weight = 20  
     
